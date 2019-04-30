@@ -1,5 +1,11 @@
 function setup() {
-  createCanvas(200, 200);
+  title = createElement('h2', "작품 제목");
+  title.position(20, 0);
+
+  canvas = createCanvas(300, 300);
+  canvas.position(20, 60);
+  canvas.class("artwork");
+
 }
 
 function draw() {
