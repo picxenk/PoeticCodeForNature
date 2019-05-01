@@ -2,7 +2,7 @@ function setup() {
   title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME : </a> 작품 제목");
   title.position(20, 0);
 
-  canvas = createCanvas(400, 400;
+  canvas = createCanvas(400, 400);
   canvas.position(20, 60);
   canvas.class("artwork");
 
