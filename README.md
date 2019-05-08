@@ -15,3 +15,11 @@
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
  ![예시 이미지](/untitled.png)
+
+filter는 어디서 온 거지? 배열, 배열이란 객체는 행위를 할 수 있어
+filter라는 메써드는 함수를 받을 수 있어.
+참인 경우에만 인지값을 모으고 나머진 버려
+
+,,,
+ particles = particles.filter((p) => p.isAlive);
+ ,,,
