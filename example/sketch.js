@@ -1,5 +1,5 @@
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME : </a> 작품 제목");
+  title = createElement('h3', "<a href='/PoeticCodeForNature'> HOME : </a> 작품 제목");
   title.position(20, 0);
 
   canvas = createCanvas(300, 300);
