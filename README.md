@@ -20,6 +20,7 @@ filter는 어디서 온 거지? 배열, 배열이란 객체는 행위를 할 수
 filter라는 메써드는 함수를 받을 수 있어.
 참인 경우에만 인지값을 모으고 나머진 버려
 
-,,,
+```javascript
  particles = particles.filter((p) => p.isAlive);
- ,,,
+
+ ```
