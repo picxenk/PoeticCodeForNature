@@ -15,3 +15,4 @@
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
  ![예시 이미지](https://blog.naver.com/PostList.nhn?blogId=csoheon&widgetTypeCall=true&parentCategoryNo=26&directAccess=true#)
+ ![예시 이미지](/Users/heejinjo/Documents/GitHub/PoeticCodeForNature/example/untitled.png)
