@@ -14,3 +14,40 @@
  움직임에 따라 배경의 색이 바뀌는 코드를 했던 것을 기억했다.
 
   ![첫 번째 작업 이미지](/heart.jpeg)
+
+  ```
+  var heart = {
+x: 0,
+y: 100,
+diameter: 50
+ };
+
+var r = 0;
+var b = 0;
+
+
+function setup() {
+
+  createCanvas(600, 400);
+
+  loadImage('assets/laDefense.jpg', img => {
+  image(img, 0, 0);
+  }
+
+}
+
+function draw() {
+  background(heart.x);
+
+  fill(200, 30, 70);
+  noStroke();
+  ellipse(mouseX, 200, 40, 40);
+
+  //color.x = mouseX;
+  heart.x = map(mouseX, 0, 600, 0, 255);
+  // g = map(mouseX, 0, 600, 255, 255);
+  b = map(mouseX, 0, 600, 255, 0);
+
+}
+
+```
