@@ -15,7 +15,7 @@
 
   ![첫 번째 작업 이미지](/heart.jpeg)
 
-  ```
+  ```javascript
   var heart = {
 x: 0,
 y: 100,
