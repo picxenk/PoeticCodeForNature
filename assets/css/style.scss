@@ -5,8 +5,9 @@
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: #fff;
+  background-color: #559966;
   // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: none;
 
   @include large {
     padding: 5rem 6rem;
