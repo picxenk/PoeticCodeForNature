@@ -49,7 +49,7 @@ function draw() {
   heart.x = map(mouseX, 0, 600, 0, 255);
   // g = map(mouseX, 0, 600, 255, 255);
   b = map(mouseX, 0, 600, 255, 0);
-
+ 
 }
 
 ```
