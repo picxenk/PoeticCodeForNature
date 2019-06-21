@@ -49,10 +49,14 @@ function draw() {
   heart.x = map(mouseX, 0, 600, 0, 255);
   // g = map(mouseX, 0, 600, 255, 255);
   b = map(mouseX, 0, 600, 255, 0);
- 
+
 }
 
 
  * 3번째 작업
  잭슨 폴록
  어떻게 작업하지?
+
+ * 4번째 작업
+
+"Text particles"를 만들자!
