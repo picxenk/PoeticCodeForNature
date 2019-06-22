@@ -60,8 +60,11 @@ function draw() {
 
 
 * [세번째 작업 중간](https://editor.p5js.org/midmost44@gmail.com/sketches/T2ccGG0Dp)
+* [세번째 작업 최종](https://editor.p5js.org/midmost44@gmail.com/sketches/-_D8yrXoy)
 
 * [저널링](https://docs.google.com/document/d/1ZzEerRII834xolKxFP0t5h1i4KKMqU7HvLwX-WiIdIY/edit?usp=sharing)
 
  ![세 번째 작업 스케치](/click.png)
  ![세 번째 작업 이미지](/what.png)
+
+그래서 text particle을 하기 위해 대니얼의 coding challenge를 보면서 작업하였다.
