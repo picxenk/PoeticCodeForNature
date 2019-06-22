@@ -8,6 +8,7 @@
  * [첫번째 작업](https://editor.p5js.org/midmost44@gmail.com/sketches/FgHx1hfAA)
 
  * [저널링](https://docs.google.com/document/d/1mI_O3ngH3qMoo_IIoacBd1v7_klgDVoLe9o-YCFbb88/edit)
+
   ![첫 번째 작업 이미지](/untitled.png)
 
  * [두번째 작업 스케치01](https://editor.p5js.org/midmost44@gmail.com/sketches/Y1isIPn9O)
@@ -52,11 +53,9 @@ function draw() {
 
 }
 
+```
+* [세번째 작업 중간](https://editor.p5js.org/midmost44@gmail.com/sketches/T2ccGG0Dp)
 
- * 3번째 작업
- 잭슨 폴록
- 어떻게 작업하지?
+* [저널링](https://docs.google.com/document/d/1ZzEerRII834xolKxFP0t5h1i4KKMqU7HvLwX-WiIdIY/edit?usp=sharing)
 
- * 4번째 작업
-
-"Text particles"를 만들자!
+ ![세 번째 작업 이미지](/what.png)
