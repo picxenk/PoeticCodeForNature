@@ -10,6 +10,8 @@
  * [저널링](https://docs.google.com/document/d/1mI_O3ngH3qMoo_IIoacBd1v7_klgDVoLe9o-YCFbb88/edit)
 
   ![첫 번째 작업 이미지](/untitled.png)
+첫번째 작업은 이미지를 염두하고 만든 것이 아니라 손스케치가 없다.
+소리에 반응하는 레졸룸 이펙터 같은 것을 파티클을 응용해서 만들고 싶었기 때문이다.
 
  * [두번째 작업 스케치01](https://editor.p5js.org/midmost44@gmail.com/sketches/Y1isIPn9O)
 
