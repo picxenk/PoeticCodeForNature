@@ -1,7 +1,7 @@
 ## 접속 주소
  : <http://midmost.github.io/PoeticCodeForNature/>
 
-## Echec 
+## Echec
 Heejin Jo
 
 ## 작업
@@ -85,8 +85,5 @@ Gentle Monster
 
 
 1. 좋아하는 작가와 작품, 그리고 공간
-* [Random International] (https://vimeo.com/376351028)
+ * [Random International](https://vimeo.com/376351028)
 2. 최근 이슈가 되는 트렌드와 서비스
-
-
-
