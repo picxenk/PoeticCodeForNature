@@ -84,6 +84,22 @@ Gentle Monster
 - 순운전자본이 46억원으로 부담이 큰 거 같은데 어디까지 공간 마케팅에 지출을 하려하는지
 
 
-1. 좋아하는 작가와 작품, 그리고 공
- * [Random International](https://vimeo.com/376351028)
-2. 최근 이슈가 되는 트렌드와 서비스
+## 좋아하는 작가와 작품
+ _미디어 아트 - 설치:_
+* [Random International](https://vimeo.com/376351028)
+* [Lab212](https://lab212.org/oeuvres/2:art/17/Portee)
+* [김윤철](https://youtu.be/geypSqyGZ0Y)
+
+![김윤철 개인전 포스터](/kim.jpg)
+
+
+ _미디어 아트 - 디지털 아트:_
+ * [Robert Henke](https://youtu.be/zMHb5ft_P6Q)
+ * [Robert Henke](https://youtu.be/WrVsj3xN3E4)  
+ * [남궁원](https://youtu.be/JvH0ukNCYeo)
+
+ _독보적인 특색 가진 설치미술 작가_
+ * [이불](https://youtu.be/WhyeyI3fKY8)
+
+
+## 좋아하는 공간
