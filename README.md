@@ -106,7 +106,8 @@ Gentle Monster
     * [Vija Celmins](https://www.sfmoma.org/watch/vija-celmins-saying-the-unsayable/)
     * [Matthew Ronay](https://youtu.be/CXapwtxencw)
     * [Tomás Saraceno](https://youtu.be/05rgQUFPTjc)
-    * [joana vasconcelos](/pinkHeli.jpg)
+    * [joana vasconcelos]
+    ![joana vasconcelos](/pinkHeli.jpg)
 
 
 
@@ -126,5 +127,5 @@ Gentle Monster
      ![mmic 오진다](/20200629_133950.jpg)
      ![바](/20200629_134025.jpg)
      ![바](/20200629_134032.jpg)  
-     
+
 ## 좋아하는 공간
