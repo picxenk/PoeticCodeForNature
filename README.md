@@ -100,9 +100,17 @@ Gentle Monster
 
  _독보적인 특색 가진 설치미술 작가_
  * [이불](https://youtu.be/WhyeyI3fKY8)
+ * [Janet Echelman](https://youtu.be/l3rIW9nJw3Y)
+    * [Hans Haacke](https://youtu.be/tOmesd5aHIk)
+    * [Hans Haacke at Paula Cooper, New York (Jan 2008)](https://youtu.be/ffpvKOm2WIE)
+    * [Vija Celmins](https://www.sfmoma.org/watch/vija-celmins-saying-the-unsayable/)
+    * [Matthew Ronay](https://youtu.be/CXapwtxencw)
+    * [Tomás Saraceno](https://youtu.be/05rgQUFPTjc)
+    * [joana vasconcelos](/pinkHeli.jpg)
+
 
 
 ![월간미술](/20200629_120329.jpg)
- ![월간미술](/20200629_120336.jpg)
+![월간미술](/20200629_120336.jpg)
 
 ## 좋아하는 공간
