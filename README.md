@@ -71,7 +71,7 @@ function draw() {
 
 ---------
 
-Gentle Monster
+# Gentle Monster
 
 예상 질문
 - 로봇팔 작업은 어떻게 하게 되었고 어디까지 다룰 수 있는지?
@@ -89,6 +89,7 @@ Gentle Monster
 * [Random International](https://vimeo.com/376351028)
 * [Lab212](https://lab212.org/oeuvres/2:art/17/Portee)
 * [김윤철](https://youtu.be/geypSqyGZ0Y)
+* [팀보이드]()  
 
 ![김윤철 개인전 포스터](/kim.jpg)
 
