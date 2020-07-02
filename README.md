@@ -2,7 +2,7 @@
  : <http://midmost.github.io/PoeticCodeForNature/>
 
 ## Echec
-Heejin Jo
+only for Gentle Monster
 
 ---------
 
